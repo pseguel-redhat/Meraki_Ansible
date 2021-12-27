@@ -25,6 +25,7 @@ SSIDs:
       - url: https://wwww....
 
   - name: partners
+    state: disabled
     BSSID: McDonalds Partners
     Hidden: Yes
     APs:
